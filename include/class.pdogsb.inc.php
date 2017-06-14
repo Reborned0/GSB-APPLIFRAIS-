@@ -20,7 +20,7 @@ class PdoGsb{
         private static $port=''; /*port=3306*/
       	private static $bdd='dbname=u466434734_gsbfr';   		
       	private static $user='u466434734_testa' ;    		
-      	private static $mdp='' ;	
+      	private static $mdp='testADM' ;	
 	private static $monPdo;
 	private static $monPdoGsb=null;
 /**
